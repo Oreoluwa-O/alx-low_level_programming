@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char c
+	char c;
 	int i;
 	long int li;
 	long long int lli;
