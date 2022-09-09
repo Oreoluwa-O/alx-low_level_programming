@@ -5,9 +5,7 @@
 /**
  * main - Prints if the number is positive, negative or zero.
  *
- * Description: using the main function
- * this program prints "Programming is positive, negative or zero
- * Return: 0
+ * Return: Always (Success)
  */
 int main(void)
 {
