@@ -3,9 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - Prints a random number and states whether it is positive, negative or zero.
+ * main - Prints if the number is positive, negative or zero.
  *
- * Return: Always 0
+ * Description: using the main function
+ * this program prints "Programming is positive, negative or zero
+ * Return: 0
  */
 int main(void)
 {
